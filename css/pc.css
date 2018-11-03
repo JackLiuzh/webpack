@@ -1,0 +1,6 @@
+body{
+	background: red;
+}
+#checkbox,#menu-toggle {
+	display: none;
+}

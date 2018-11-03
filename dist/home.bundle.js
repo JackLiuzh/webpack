@@ -151,7 +151,7 @@ exports = module.exports = __webpack_require__(4)(false);
 
 
 // module
-exports.push([module.i, "body{\r\n\tbackground: #ccc;\r\n}", ""]);
+exports.push([module.i, "body{\r\n\t\r\n}", ""]);
 
 // exports
 
